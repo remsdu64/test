@@ -1,0 +1,5 @@
+Mettez vos dialogues içi sous cette forme:
+
+personnage qui parle : texte
+autre perso : texte
+personnage autre : texte
