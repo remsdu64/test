@@ -1,0 +1,3 @@
+Mettez les noms de vos personnages sur une seule ligne:
+
+perso1 | perso2 | perso3...
